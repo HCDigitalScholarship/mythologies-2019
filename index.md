@@ -1,7 +1,7 @@
 ---
 layout: page
 title: index
-permalink: /index
+permalink: /cloud
 
 ---
 
@@ -470,4 +470,4 @@ permalink: /index
 - Roland Barthes
 - idealized
 - sexualized
--social media
+- social media
