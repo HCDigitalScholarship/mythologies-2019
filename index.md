@@ -1,7 +1,7 @@
 ---
 layout: page
 title: index
-permalink: /cloud
+permalink: /cloud/
 
 ---
 
