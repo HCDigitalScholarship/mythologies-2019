@@ -1,0 +1,466 @@
+# Mythologies 2019
+
+- aquarius
+- water
+- identity
+- image
+- drinks
+- scorpion
+- bicycle
+- flair
+- football
+- spectacle
+- cursed images
+- confusion
+- traits
+- collectio
+- incineroar
+- villainous
+- toxicity
+- heel
+- online
+- clock
+- time
+- MET
+- vogue
+- surreal
+- David Bailey
+- fashion
+- photograph
+- pillar
+- pose
+- aesthetic
+- gala
+- theme
+- tarot cards
+- major arcana
+- wands
+- cups
+- swords
+- pentacles
+- deck
+- designers
+- empress
+- high priestess
+- gold
+- minimalist
+- simple
+- interpret
+- Jordan Peele
+- doppelgangers
+- Zora
+- American
+- real
+- tethered
+- red
+- horror
+- psychological
+- thriller
+- umbrae
+- movie
+- genre
+- hottieween
+- Megan Thee Stallion
+- Dave East
+- Harlem
+- private investigator
+- Us
+- Octavia Spencer
+- trailers
+- Teyana Taylor
+- black
+- Hollywood
+- representation
+- vampire
+- dada
+- Salvador Dali
+- Spain
+- Franco
+- communism
+- anarchism
+- authoritarianism
+- mask
+- revolution
+- La Casa de Papel
+- money heist
+- professor
+- jumpsuit
+- Puerto Rico
+- Guy Fawkes
+- anonymous
+- dining
+- spinach
+- food
+- chocolate
+- monstrosity
+- explanations
+- bet
+- friends
+- unpleasant
+- story
+- tattoo
+- needle
+- pain
+- planning
+- community
+- personality
+- unprofessional
+- styles
+- consumerism
+- ads
+- every
+- product
+- craving
+- browsing
+- capitalism
+- distractions
+- money
+- download
+- free
+- diets
+- poor
+- McDonald's
+- meat
+- orange juice
+- Food, Inc.
+- culture
+- organic
+- bribe
+- beauty
+- sunset
+- puppy
+- biggest
+- Facebook
+- appeal
+- post
+- enjoy
+- redundancy
+- Instagram
+- Instamodel
+- Instafamous
+- female Instagrammers
+- ideology
+- subjects
+- fetishizing gaze
+- influencer
+- algorithms
+- brand culture
+- followers
+- illusion
+- escape
+- archive
+- volitional mobility
+- smartphones
+- virtual reality
+- control
+- Greek life
+- sorority girls
+- sister
+- race
+- gender
+- class
+- category
+- Eurocentric facial features
+- designer
+- wealth
+- well traveled
+- gender norms
+- TikTok
+- relatable content
+- scrolling
+- for you page
+- Youtube
+- TV
+- attention span
+- technology
+- video
+- video calling
+- laptop
+- communication
+- FaceTime
+- hair
+- hair dye
+- conformity
+- femininity
+- individuality
+- poetry
+- popularity
+- famous
+- logo
+- brand
+- hype
+- equality
+- order
+- symmetry
+- STEM
+- sound
+- false
+- dissonance
+- myth
+- Americana
+- stripes
+- pattern
+- society
+- map
+- ratio
+- environment
+- power
+- colonialism
+- coffee
+- caffeine
+- tea
+- Starbucks
+- drug
+- infrastructure
+- energy
+- 3D
+- 2D
+- accurate
+- senses
+- archetype
+- teenager
+- scrunchies
+- hydroflask
+- crocs
+- Birkenstocks
+- language
+- vsco
+- internet
+- sex
+- hot
+- fun
+- true love
+- oi oi
+- god
+- heteronormativity
+- crack on 
+- British
+- rednecks
+- trash
+- blonde
+- muscles
+- tan
+- bikinis
+- The Pope
+- chaste
+- science
+- primal
+- Gen Z
+- John
+- jawn
+- distracted
+- dental hygiene
+- teeth
+- ADHD
+- vacant
+- mindless
+- dumb
+- stupidity
+- anger
+- stare
+- screen
+- focus
+- bored
+- Gucci
+- Supreme
+- Dickies
+- Carhartt
+- blue collar
+- counterculture
+- social wealth disparities
+- snow
+- Cheese Whiz
+- avocados
+- home
+- rivalry
+- attack
+- boba
+- bubble tea
+- manipulation
+- deception
+- legs
+- curves
+- final
+- vulnerability
+- desire
+- first
+- undermined
+- protagonist
+- lure
+- subvert
+- object
+- passivity
+- dress
+- date
+- freedom
+- become
+- we
+- accept
+- unquestioned
+- gift
+- happiness
+- dancer
+- objectivity
+- subjectivity
+- music
+- iconic
+- commercialized
+- inclusion
+- accessibility
+- reproduction
+- traditional
+- exclusive
+- wine
+- mom
+- lazy
+- woman
+- understanding
+- health
+- workload
+- extreme
+- fix
+- mental
+- film
+- dialogue
+- angle
+- silent
+- perspective
+- nerd
+- fan
+- outfits
+- original
+- body
+- series
+- characters
+- IHOP
+- library
+- church
+- triangle
+- quiet
+- college
+- noise
+- plastic
+- figures
+- cute
+- copy paste
+- gender
+- taste
+- Asian American
+- kung fu tea
+- East Coast
+- West Coast
+- emojis
+- clown
+- twitter
+- fool
+- joker
+- jester
+- vocaloid
+- artificial intelligence
+- pop star
+- turquoise
+- Hatsune Miku
+- animated
+- Rupi Kaur
+- Instapoetry
+- Tumblr
+- mediocre
+- drawing
+- arbitrary
+- deep
+- emotional
+- fake
+- vine
+- book
+- viral
+- bangs
+- TERF
+- manic pixie dream girl
+- woman
+- fringe
+- meme
+- apple
+- conversation
+- eye contact
+- digital
+- relationship
+- baby Yoda
+- Star Wars
+- baby
+- puppet
+- material
+- CGI
+- Disney+
+- feed
+- scroll
+- selfie
+- procrastination
+- addiction
+- self obsessed
+- streaming
+- Netflix
+- Hulu
+- Amazon
+- cinema
+- death
+- flat design
+- skeuomorphism
+- Google
+- kindergarten
+- outdated
+- UI
+- UX
+- dominoes
+- platform
+- Kendall Jenner
+- vocals
+- luxury
+- status
+- Snapchat filters
+- pretty
+- silly
+- ugly
+- eyelashes
+- plastic surgery
+- Peyton Manning
+- Nationwide
+- distorted
+- bobblehead
+- smooth
+- ;)
+- socks and stocks
+- track pants
+- why
+- high school
+- Shia Labeouf
+- cool
+- Western Massachusetts
+- Love Island
+- love
+- Tinder
+- singlelife
+- swipeleft
+- nofilter
+- nostalgia
+- 35mm
+- huji
+- dontletthestreakdie
+- dogfilter
+- snapsawitfirst
+- mukbangs
+- vlogmas
+- dayinthelife
+- vlogsquad
+- hypebeast
+- airjordan
+- guccigang
+- driptoohard
+- viewer
+- user
+- Haverford
+- Pokemon
+- idolized
+- Roland Barthes
+- idealized
+- sexualized
+-social media
