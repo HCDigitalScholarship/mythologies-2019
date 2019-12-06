@@ -1,3 +1,10 @@
+---
+layout: page
+title: index
+permalink: /index
+
+---
+
 # Mythologies 2019
 
 - aquarius
