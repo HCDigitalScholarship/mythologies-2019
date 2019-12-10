@@ -1,9 +1,10 @@
-<!DOCTYPE html>
-<html>
-  <head>
-  </head>
-  <body>
-<h1>Mythologies 2019</h1>
+---
+format: page
+title: tags
+permalink: tags.html
+---
+
+## Mythologies 2019
 
 - aquarius
 - water
@@ -469,5 +470,3 @@
 - idealized
 - sexualized
 - social media
-</body>
-</html>
