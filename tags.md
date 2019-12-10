@@ -19,7 +19,7 @@ permalink: tags.html
 - cursed images
 - confusion
 - traits
-- collectio
+- collection
 - incineroar
 - villainous
 - toxicity
