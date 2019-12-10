@@ -1,5 +1,5 @@
 ---
-format: page
+layout: page
 title: tags
 permalink: tags.html
 ---
