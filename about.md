@@ -1,0 +1,12 @@
+---
+title: About
+layout: default
+---
+
+## Mythologies 2019: A course website for Visual Studies 129
+
+#### Contributors:
+
+#### Other credits:
+
+#### Bibliography
