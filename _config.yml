@@ -1,8 +1,8 @@
 name: "Mythologies 2019"
 description: "Lightweight theme"
 
-url: 'hcdigitalscholarship.github.io/mythologies-2019' 
-baseurl: ''
+url: 'https://hcdigitalscholarship.github.io/' 
+baseurl: 'mythologies-2019'
 
 markdown: kramdown
 markdown_ext: "markdown,mkdown,mkdn,mkd,md"
