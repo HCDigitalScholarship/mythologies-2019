@@ -1,7 +1,7 @@
 ---
 layout: default
 title: tags
-permalink: tags.html
+permalink: /
 ---
 
 ## Mythologies 2019
@@ -239,7 +239,7 @@ permalink: tags.html
 - oi oi
 - god
 - heteronormativity
-- crack on 
+- crack on
 - British
 - rednecks
 - trash
