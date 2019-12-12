@@ -1,6 +1,5 @@
 ---
 title: Final Girls
-author: Natalie Masetti
 layout: post
 ---
 
