@@ -2,7 +2,6 @@
 title: Analyzing the TikTok Trend
 author: Becca Matson
 layout: post
-permalink: entries/tiktok/
 ---
 
 ## Analyzing the TikTok Trend
