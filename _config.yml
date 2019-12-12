@@ -3,6 +3,8 @@ description: "Course site for Visual Studies"
 
 url: 'https://hcdigitalscholarship.github.io/mythologies-2019'
 
+remote_theme: pages-themes/cayman
+
 markdown: kramdown
 markdown_ext: "markdown,mkdown,mkdn,mkd,md"
 highlighter: rouge
