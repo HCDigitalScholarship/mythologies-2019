@@ -5,6 +5,8 @@ layout: post
 
 ## Final Girls
 
+#### Natalie Masetti
+
 Tags: Final, vulnerability, horror, her, first, desire, undermined, protagonist, lure, object, subvert, passivity, movie, system, teenager, sexualized, hot, film, pretty, become, woman
 
 The [final] girl―the girl left at the end of the [movie], the only one to have survived the [horrors]―has been an all-too-common feature of [horror] [movies] throughout the ages. I have adored [horror] [movies] since I was old enough to watch them, and I often looked up to the [final] girl as a role model: if I was in a [horror] [movie], I would be as smart and as savvy as [*her*]. On the other hand, the [final] girl often conveys the man’s idea of an “ideal” [woman], as she is conventionally attractive and thin. She is [first] recognized for [her] looks, [vulnerability], and as the “passive [woman],”[^1] or an [object] that is “punished . . . in a sadistic form of voyeurism,”[^2] despite [her] intelligence and being *the* survivor. Put simply, she is a [hot] girl who is *also* smart. 
