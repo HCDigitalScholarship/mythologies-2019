@@ -18,5 +18,5 @@ In addition, the super short lengths of these videos indicates how [user]s’ [a
 
 More people are beginning to use [TikTok] since it diverges from [Instagram]’s need to look “perfect” all the time. Instead, [TikTok] is simply about producing funny and [relatable content] for everyone to laugh at, enjoy, and send to their friends.
 
-![TikTok’s Logo](/img/tiktok_logo.jpg)
+![TikTok’s Logo]({{ site.url }}img/tiktok_logo.jpg)
 ![Images of different TikToks](tiktok.jpg)
