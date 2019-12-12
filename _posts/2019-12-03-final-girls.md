@@ -1,11 +1,10 @@
 ---
 title: Final Girls
+author: Natalie Masetti
 layout: post
 ---
 
 ## Final Girls
-
-#### Natalie Masetti
 
 Tags: Final, vulnerability, horror, her, first, desire, undermined, protagonist, lure, object, subvert, passivity, movie, system, teenager, sexualized, hot, film, pretty, become, woman
 
