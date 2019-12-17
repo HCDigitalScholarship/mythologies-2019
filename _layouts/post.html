@@ -2,8 +2,7 @@
 layout: default
 ---
 <h1>{{ page.title }}{{ page.shortUrl }}</h1>
+<h3>by {{ page.author }}</h3>
 <div class='separator'></div>
 
 {{ content }}
-
-{% if site.disqus-id %} {% include comments.html %} {% endif %}

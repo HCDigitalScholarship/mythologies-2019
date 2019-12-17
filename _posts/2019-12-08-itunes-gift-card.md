@@ -1,0 +1,15 @@
+---
+title: iTunes Gift Card
+author: Natalie Masetti
+layout: post
+---
+
+Tags: Consumerism, unquestioned, accept, gift, happiness, dancer, objectivity, subjectivity, music, iconic, consumer, commercialized, image, simple, real, money, society, understanding
+##
+
+You see these everywhere―supermarkets, convenience stores, clothing outlets. They go largely [unquestioned], a [simple] picture of a shaded-in dancing figure listening to a white iPod on a colorful background. We as [consumers] are made to want to buy this [gift] card because “the way we see things is affected by . . . what we believe,”[^6] which is to say we commonly [accept] dancing as an expression of [happiness], we want to be happy, and so we should buy this [gift] card. Furthermore, these iTunes [gift] cards include an ambiguous figure in order to place the [consumer] in the position of the “happy” [dancer]. But, it’s important to understand that, although the [gift] card has an intriguing [image] and buying it won’t be detrimental to anybody, iTunes is playing upon our visions of [happiness] in order to get us to consume. This goes further to relate to the concepts of visual [objectivity] and [subjectivity], which are important in analyzing the [gift] card and its role in [consumerist] [society].
+One can apply Roland Barthes’ analyzation process to the [gift] card and its subtle effects on the [consumer] become apparent. Linguistically, “iTunes [Gift] Card” clearly expresses what the [image] is, and the dollar amount expresses how much it costs. The non-coded message is simply the figure dancing while listening to [music]. The [iconic] message is our perception of what is happy―dancing and listening to [music]; based on our cultural [understanding], these two aspects imply that listening to this [music] will make us dance and be cheerful[^7]. It is to this that iTunes plays to the [consumer] at a subjective level, and I think it is upsetting how human joyfulness and symbols of [happiness] (dancing, [music]) are [commercialized] and used against us. Thus, it’s important to remember that [images] such as the dancing men and women on iTunes [gift] cards are not solely overjoyed figures―they are carefully designed to make [consumers] spend [money] without any [real] promise of [happiness] in return.  
+ https://blog.geebo.com/2016/04/27/new-online-scam-uses-itunes-gift-cards/
+![iTunes Gift Card Thirty Dollars](https://i1.wp.com/blog.geebo.com/wp-content/uploads/2016/04/itunescard.jpg?w=500&ssl=1)
+
+![iTunes Gift Card Characters](https://o.aolcdn.com/images/dims?quality=85&image_uri=http%3A%2F%2Fwww.blogcdn.com%2Fmedia%2F2013%2F03%2Fitunes32913.jpg&client=amp-blogside-v2&signature=21a83101d20c916abca600092c4a971bf76d466a)

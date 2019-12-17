@@ -4,8 +4,6 @@ author: Becca Matson
 layout: post
 ---
 
-## Analyzing the TikTok Trend
-
 #TikTok, #socialnetworkingapp, #relatablecontent, #Instagram, #scrolling, #trends, #ForYoupage, #24/7, #YouTube, #TV, #attentionspan, #internet, #ADHD, #focus, #bored, #highschool, #socialmedia, #algorithm, #user, #Netflix, #post, #movie, #smartphones
 
 [TikTok] is a relatively new [social networking app] that allows users to post videos from 15 seconds in length up to 60 seconds in length. The most popular form of [TikTok]s include lip-syncing to a particular audio clip of a song or someone’s voice and inserting your own text on the screen to accompany the song’s lyrics or message.
