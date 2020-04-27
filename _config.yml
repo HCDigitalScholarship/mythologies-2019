@@ -25,4 +25,4 @@ url: 'https://hcdigitalscholarship.github.io/mythologies-2019'
 #     style: :compressed
 #     sass_dir: assets/css/
 
-remote_theme: Squifi/jekyll-theme-terminal
+remote_theme: b2a3e8/jekyll-theme-console
